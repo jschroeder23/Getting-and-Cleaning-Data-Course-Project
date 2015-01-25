@@ -104,7 +104,7 @@ The dataFeature variable names- were expanded to make them more understandable d
 
 str(dataTable)
 Classes 'tbl\_df', 'tbl' and 'data.frame'- 180 obs. of 69 variables-
-\* - subject - int 1 1 1 1 1 1 2 2 2 2 ... :
+\* \_ subject - int 1 1 1 1 1 1 2 2 2 2 ... : \_
 \* - activityName - chr "LAYING" "SITTING" "STANDING" "WALKING" ... :
 \* - activityNum - num 6 4 5 1 3 2 6 4 5 1 ... :
 \* - timeBodyAccelerometer-MEAN()-X - num 0.222 0.261 0.279 0.277 0.289 ... :
