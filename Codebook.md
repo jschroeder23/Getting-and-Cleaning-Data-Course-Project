@@ -86,7 +86,8 @@ The dataFeature variable names- were expanded to make them more understandable d
 -   9 tBodyAcc-mad()-Z
 -   10 tBodyAcc-max()-X
 
--   dataFeatures after expansion is as follows:
+##### dataFeatures after expansion is as follows:
+
 -   "timeBodyAccelerometer-MEAN()-X"
 -   "timeBodyAccelerometer-MEAN()-Y"
 -   "timeBodyAccelerometer-MEAN()-Z"
